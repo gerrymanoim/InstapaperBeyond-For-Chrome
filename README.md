@@ -4,3 +4,6 @@ This is a port of the Instapaper Beyond for Safari extension (http://brettterpst
 
 
 Not that the crx file here DOES NOT auto update. Fix coming in the future. 
+
+
+On the Chrome Web Store: https://chrome.google.com/webstore/detail/fojfjbjlfgdhckgnhhieilpaddminnni
