@@ -1,0 +1,23 @@
+{
+  // Required
+  "name": "InstapaperBeyond",
+  "version": "1.0",
+
+  // Recommended
+  "description": "A port of Instapaper beyond for safari",
+  "icons": {
+    "48": "Icon-48.png",
+    "128": "Icon.png"
+  },
+
+  // Pick one (or none)
+
+  // Add any of these that you need
+  "background_page": "global.html",
+  "content_scripts": [{
+    "matches": ["http://www.instapaper.com/*"],
+    "css": ["IBcss1.css", "IBcss2.css"],
+    "js": ["jquery-latest.min.js", "jquery.scrollTo-min.js", "instapaperbeyond.user.js"]
+  }],
+  "content_security_policy": "default-src 'self' "
+}

@@ -1,0 +1,21 @@
+div.bottom{padding-top:80px}
+.selected .starBox img{left:22px !important;}
+#story #logo{font-size:24px}
+#text_controls a {color:#555 !important;}
+#textArticle{z-index:10000;font-family:Georgia;font-size:14px;margin:0 0 0 -320px;left:50%;line-height:1.5em;width:500px;-webkit-text-size-adjust:none;word-wrap:break-word;}
+h1{font-size:1.3em;}
+h2{font-size:1.15em;}
+h3,h4,h5,h6,h7{font-size:1.0em;}
+#textArticle img{border:0;display:block;}
+pre,code{overflow:auto;}
+#story{clear:both;padding:0 10px;overflow:hidden;margin-bottom:40px;}
+.bar{color:#555;font-family:"Helvetica";font-size:11pt;margin:0 -20px;padding:10px 0;}
+.top{border-bottom:2px solid #000;}
+.top a{display:block;float:right;text-decoration:none;font-size:11px;background-color:#eee;-webkit-border-radius:8px;-moz-border-radius:8px;padding:2px 15px;}
+#story div{margin:1em 0;}
+.bottom{border-top:2px solid #000;color:#555;}
+.bar a{color:#444;}
+blockquote{border-top:1px solid #bbb;border-bottom:1px solid #bbb;margin:1.5em 0;padding:0.5em 0;}
+blockquote.short{font-style:italic;}
+pre{white-space:pre-wrap;}
+ul.bodytext,ol.bodytext{list-style:none;margin-left:0;padding-left:0em;}
